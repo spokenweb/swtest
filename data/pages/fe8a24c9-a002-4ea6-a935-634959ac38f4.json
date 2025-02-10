@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-10T01:35:41.121Z",
+  "created_by": "spokenweb",
+  "title": "language test",
+  "slug": "language-test",
+  "updated_at": "2025-02-10T01:35:41.121Z",
+  "updated_by": "spokenweb",
+  "parent": "2c7d7b61-7b0d-4d22-a17c-b3aecd2bb452",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "802a681e-7644-46e6-9d2d-d155662f1c99"
+  }
+}
