@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-10T23:22:48.768Z",
+  "created_by": "spokenweb",
+  "title": "another speaker test",
+  "slug": "another-speaker-test",
+  "updated_at": "2025-02-10T23:22:48.768Z",
+  "updated_by": "spokenweb",
+  "parent": "2c7d7b61-7b0d-4d22-a17c-b3aecd2bb452",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "eccde771-f528-4fa8-9f43-77e0b8fe8846"
+  }
+}
