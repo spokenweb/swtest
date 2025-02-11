@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "844fcf5b-0dbb-4a3c-8758-4cbd39bca5de": {
+      "label": "xxx",
+      "is_offline": false,
+      "file_url": "xxx",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "back to original with name above description",
+  "created_at": "2025-02-11T21:25:16.440Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-02-11T21:25:16.440Z",
+  "updated_by": "spokenweb"
+}
