@@ -28,15 +28,11 @@
         {
           "category": "_uncategorized_",
           "tag": "tag 1"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "x"
         }
       ]
     },
     "created_at": "2025-02-10T01:35:04.082Z",
-    "updated_at": "2025-02-11T21:18:42.255Z",
+    "updated_at": "2025-02-11T21:19:44.915Z",
     "generate_pages_site": true
   },
   "is_private": false
