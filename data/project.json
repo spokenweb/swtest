@@ -1,1 +1,39 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"spokenweb","is_private":false,"title":"tests","description":"tests","language":"fr","slug":"swtest","creator":"spokenweb","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"category":"_uncategorized_","tag":"Endre Farkas"}]},"created_at":"2025-02-10T01:35:04.082Z","updated_at":"2025-02-11T21:20:07.781Z","generate_pages_site":true},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "spokenweb",
+    "is_private": false,
+    "title": "tests",
+    "description": "tests",
+    "language": "fr",
+    "slug": "swtest",
+    "creator": "spokenweb",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas"
+        }
+      ]
+    },
+    "created_at": "2025-02-10T01:35:04.082Z",
+    "updated_at": "2025-02-11T21:21:09.169Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
